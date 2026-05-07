@@ -1,0 +1,12 @@
+# Ignore everything except skills/ directory
+*
+!skills/
+!skills/**
+
+# OS / editor
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+.env
